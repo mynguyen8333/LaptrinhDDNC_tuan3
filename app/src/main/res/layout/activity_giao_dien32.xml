@@ -124,6 +124,7 @@
         android:layout_height="87dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="16dp"
+        android:transitionName="fade1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/cay1" />
@@ -144,6 +145,7 @@
         android:layout_height="87dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="44dp"
+        android:transitionName="fade"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
         app:srcCompat="@drawable/cay3" />

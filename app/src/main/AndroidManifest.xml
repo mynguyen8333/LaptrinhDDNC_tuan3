@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bai3_1">
         <activity
+            android:name=".GiaoDien3_4"
+            android:exported="true" />
+        <activity
+            android:name=".GiaoDien3_3"
+            android:exported="true" />
+        <activity
             android:name=".GiaoDien3_2"
             android:exported="true" />
         <activity
